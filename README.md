@@ -1,7 +1,7 @@
 # firebase-users
 <b>Node - Firebase DB (users)</b>
 
-Código que guarda datos en la tabla usuarios sobre FIREBASE sobre una DB propia como Admin SDK (*)
+Permite guardar datos en la tabla usuarios sobre FIREBASE sobre una DB propia como Admin SDK (*)
 
 
 (*) Para ello deben crearse credenciales sobre la API Key Server.
